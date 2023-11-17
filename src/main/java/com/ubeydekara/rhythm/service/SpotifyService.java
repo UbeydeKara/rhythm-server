@@ -19,6 +19,7 @@ import java.util.List;
 @RequiredArgsConstructor
 public class SpotifyService {
     private final RestTemplate restTemplate;
+    private final YoutubeService youtubeService;
 
     public List<Album> getAlbumTracks(String albumId) {
         SpotifyToken token = SpotifyAuth.getToken();
@@ -30,6 +31,20 @@ public class SpotifyService {
         HttpEntity<Object> entity = new HttpEntity<>(httpHeaders);
         String postUrl = SpotifyConstants.playlistTracksEndpoint.replace("{playlist_id}", albumId);
 
-        return restTemplate.exchange(postUrl, HttpMethod.GET, entity, PlaylistTracks.class).getBody().getAlbums();
+        PlaylistTracks playlistTracks = restTemplate.exchange(postUrl, HttpMethod.GET, entity, PlaylistTracks.class).getBody();
+
+        if (playlistTracks == null)
+            throw new RuntimeException();
+
+        return preparePlaylist(playlistTracks);
+    }
+
+    private List<Album> preparePlaylist(PlaylistTracks playlistTracks) {
+        List<Album> albums = playlistTracks.getAlbums();
+
+        // insert videoId from YouTube
+        albums.forEach(x -> x.setYtVideoId(youtubeService.getVideoSource(x.getId(), x.getName())));
+
+        return albums;
     }
 }

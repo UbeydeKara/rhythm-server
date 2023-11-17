@@ -10,6 +10,7 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Album {
+    private String id;
     private String name;
     private List<Image> images;
     private List<Artist> artists;
