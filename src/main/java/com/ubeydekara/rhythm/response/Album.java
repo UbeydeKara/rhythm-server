@@ -14,7 +14,6 @@ public class Album {
     private String name;
     private List<Image> images;
     private List<Artist> artists;
-    private String ytVideoId;
 
     @Data
     public static class Image {

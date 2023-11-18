@@ -9,7 +9,7 @@ import java.util.List;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class PlaylistTracks {
+public class PlaylistItems {
     private List<Item> items;
 
     @Data
