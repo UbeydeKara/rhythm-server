@@ -1,7 +1,6 @@
 package com.ubeydekara.rhythm.service;
 
 import com.ubeydekara.rhythm.constant.SpotifyConstants;
-import com.ubeydekara.rhythm.response.Album;
 import com.ubeydekara.rhythm.response.PlaylistItems;
 import com.ubeydekara.rhythm.response.SpotifyToken;
 import com.ubeydekara.rhythm.response.Track;
@@ -42,26 +41,45 @@ public class SpotifyService {
     }
 
     private List<Track> preparePlaylist(PlaylistItems playlistItems) {
-        List<Album> albums = playlistItems.getAlbums();
-        List<Track> tracks = new ArrayList<>(albums.size());
 
-        for (Album album : albums) {
-            String artists = String.join(", ", album.getArtists().stream().map(Album.Artist::getName).toList());
-            String images = album.getImages().stream().map(Album.Image::getUrl).toList().get(0);
+        List<PlaylistItems.Item.Track> tracks = playlistItems
+                .getItems()
+                .stream()
+                .map(PlaylistItems.Item::getTrack)
+                .toList();
 
-            Track track = Track.builder()
-                    .id(album.getId())
+        List<Track> trackListResponse = new ArrayList<>(tracks.size());
+
+        for (PlaylistItems.Item.Track track : tracks) {
+
+            String artists = String.join(", ", track
+                    .getAlbum()
+                    .getArtists()
+                    .stream()
+                    .map(PlaylistItems.Item.Track.Album.Artist::getName)
+                    .toList());
+
+            String image = track
+                    .getAlbum()
+                    .getImages()
+                    .stream()
+                    .map(PlaylistItems.Item.Track.Album.Image::getUrl)
+                    .toList()
+                    .get(0);
+
+            Track trackResponse = Track.builder()
+                    .id(track.getId())
+                    .name(track.getName())
                     .artists(artists)
-                    .image(images)
-                    .name(album.getName())
+                    .image(image)
 
                     // insert videoId from YouTube
-                    .ytVideoId(youtubeService.getVideoSource(album.getId(), album.getName()))
+                    .ytVideoId(youtubeService.getVideoSource(track.getId(), artists + " - " + track.getName()))
                     .build();
 
-            tracks.add(track);
+            trackListResponse.add(trackResponse);
         }
 
-        return tracks;
+        return trackListResponse;
     }
 }

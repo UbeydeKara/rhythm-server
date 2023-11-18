@@ -18,11 +18,27 @@ public class PlaylistItems {
 
         @Data
         public static class Track {
+            private String id;
+            private String name;
             private Album album;
-        }
-    }
 
-    public List<Album> getAlbums() {
-        return items.stream().map(x -> x.track.album).toList();
+            @Data
+            public static class Album {
+                private String id;
+                private String name;
+                private List<Image> images;
+                private List<Artist> artists;
+
+                @Data
+                public static class Image {
+                    private String url;
+                }
+
+                @Data
+                public static class Artist {
+                    private String name;
+                }
+            }
+        }
     }
 }
