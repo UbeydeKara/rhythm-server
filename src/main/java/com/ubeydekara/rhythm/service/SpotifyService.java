@@ -20,7 +20,6 @@ import java.util.List;
 @RequiredArgsConstructor
 public class SpotifyService {
     private final RestTemplate restTemplate;
-    private final YoutubeService youtubeService;
 
     public List<Track> getPlaylistTracks(String albumId) {
         SpotifyToken token = SpotifyAuth.getToken();
@@ -72,9 +71,6 @@ public class SpotifyService {
                     .name(track.getName())
                     .artists(artists)
                     .image(image)
-
-                    // insert videoId from YouTube
-                    .ytVideoId(youtubeService.getVideoSource(track.getId(), artists + " - " + track.getName()))
                     .build();
 
             trackListResponse.add(trackResponse);

@@ -31,7 +31,7 @@ public class YoutubeService {
         return videoSource.get().getVideoId();
     }
 
-    public String addVideoSource(String trackId, String query) {
+    private String addVideoSource(String trackId, String query) {
 
         // get videoId from Youtube
         HttpHeaders httpHeaders = new HttpHeaders();

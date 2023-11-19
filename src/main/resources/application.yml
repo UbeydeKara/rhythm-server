@@ -2,16 +2,6 @@ spring:
   application:
     name: music-service
 
-  datasource:
-    url: jdbc:postgresql://localhost:5432/music-service
-    username: root
-    password: 12345
-
-  jpa:
-    hibernate:
-      ddl-auto: update
-    properties:
-      hibernate:
-        dialect: org.hibernate.dialect.PostgreSQLDialect
-        format_sql: true
-        show-sql: true
+  data:
+    mongodb:
+      uri: mongodb://root:12345@localhost:27017/rhythm.video_sources?authSource=admin

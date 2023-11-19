@@ -14,5 +14,4 @@ public class Track {
     private String name;
     private String image;
     private String artists;
-    private String ytVideoId;
 }
