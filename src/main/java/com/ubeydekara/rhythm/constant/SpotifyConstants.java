@@ -14,4 +14,5 @@ public class SpotifyConstants {
 
     // ids
     public static String global50PlaylistId = "37i9dQZEVXbMDoHDwVN2tF";
+    public static String globalNewReleasesPlaylistId = "4osleQn1nbT9Nr4MW7IIs9";
 }

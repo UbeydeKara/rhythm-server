@@ -11,6 +11,7 @@ import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
 import org.springframework.web.client.RestTemplate;
 
+import java.time.LocalDateTime;
 import java.util.List;
 
 @UtilityClass
@@ -20,7 +21,7 @@ public class SpotifyAuth {
 
     public static SpotifyToken getToken() {
 
-        if (spotifyToken == null) {
+        if (spotifyToken == null || !checkValidation()) {
             HttpHeaders httpHeaders = new HttpHeaders();
             httpHeaders.add("Content-Type", "application/x-www-form-urlencoded");
             httpHeaders.setAccept(List.of(MediaType.APPLICATION_JSON));
@@ -32,8 +33,15 @@ public class SpotifyAuth {
 
             HttpEntity<MultiValueMap<String, String>> entity = new HttpEntity<>(bodyPair, httpHeaders);
             spotifyToken = restTemplate.exchange(SpotifyConstants.tokenUrl, HttpMethod.POST, entity, SpotifyToken.class).getBody();
+
+            if (spotifyToken != null)
+                spotifyToken.setExpires_at(LocalDateTime.now().plusSeconds(spotifyToken.getExpires_in()));
         }
 
         return spotifyToken;
+    }
+
+    public static Boolean checkValidation() {
+        return spotifyToken.getExpires_at().isAfter(LocalDateTime.now());
     }
 }

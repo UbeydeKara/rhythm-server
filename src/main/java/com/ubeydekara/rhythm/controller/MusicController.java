@@ -23,6 +23,11 @@ public class MusicController {
         return spotifyService.getPlaylistTracks(SpotifyConstants.global50PlaylistId);
     }
 
+    @GetMapping("/newReleases")
+    public List<Track> getNewReleases() {
+        return spotifyService.getPlaylistTracks(SpotifyConstants.globalNewReleasesPlaylistId);
+    }
+
     @PostMapping("/find/videoId")
     public String findVideoId(@RequestBody VideoRequest videoRequest) {
         return youtubeService.getVideoSource(videoRequest.getTrackId(), videoRequest.getSearchQuery());
