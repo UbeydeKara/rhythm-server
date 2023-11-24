@@ -1,11 +1,13 @@
 package com.ubeydekara.rhythm.service;
 
 import com.ubeydekara.rhythm.constant.SpotifyConstants;
-import com.ubeydekara.rhythm.response.PlaylistItems;
 import com.ubeydekara.rhythm.response.Track;
+import com.ubeydekara.rhythm.response.rest.PlaylistItems;
 import com.ubeydekara.rhythm.util.SpotifyAuth;
 import lombok.RequiredArgsConstructor;
-import org.springframework.http.*;
+import org.springframework.http.HttpEntity;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpMethod;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
@@ -42,13 +44,6 @@ public class SpotifyService {
 
         for (PlaylistItems.Item.Track track : tracks) {
 
-            String artists = String.join(", ", track
-                    .getAlbum()
-                    .getArtists()
-                    .stream()
-                    .map(PlaylistItems.Item.Track.Album.Artist::getName)
-                    .toList());
-
             String image = track
                     .getAlbum()
                     .getImages()
@@ -60,7 +55,7 @@ public class SpotifyService {
             Track trackResponse = Track.builder()
                     .id(track.getId())
                     .name(track.getName())
-                    .artists(artists)
+                    .artists(track.getAlbum().getArtists())
                     .image(image)
                     .build();
 

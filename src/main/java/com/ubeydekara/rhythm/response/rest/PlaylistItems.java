@@ -1,5 +1,6 @@
-package com.ubeydekara.rhythm.response;
+package com.ubeydekara.rhythm.response.rest;
 
+import com.ubeydekara.rhythm.response.Artist;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -32,11 +33,6 @@ public class PlaylistItems {
                 @Data
                 public static class Image {
                     private String url;
-                }
-
-                @Data
-                public static class Artist {
-                    private String name;
                 }
             }
         }

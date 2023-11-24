@@ -5,15 +5,11 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.util.List;
-
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class Track {
+public class Artist {
     private String id;
     private String name;
-    private String image;
-    private List<Artist> artists;
 }

@@ -1,7 +1,7 @@
 package com.ubeydekara.rhythm.util;
 
 import com.ubeydekara.rhythm.constant.SpotifyConstants;
-import com.ubeydekara.rhythm.response.SpotifyToken;
+import com.ubeydekara.rhythm.response.rest.SpotifyToken;
 import lombok.experimental.UtilityClass;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;

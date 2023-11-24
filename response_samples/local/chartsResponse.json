@@ -1,0 +1,1730 @@
+{
+  "weeklyTracks": [
+    {
+      "id": "3rUGC1vUpkDG9CZFHMur1t",
+      "name": "greedy",
+      "image": "https://i.scdn.co/image/ab67616d00001e0222fd802bc61db666c7c81aa8",
+      "artists": [
+        {
+          "id": "45dkTj5sMRSjrmBSBeiHym",
+          "name": "Tate McRae"
+        }
+      ],
+      "currentRank": 1,
+      "previousRank": 1
+    },
+    {
+      "id": "2HafqoJbgXdtjwCOvNEF14",
+      "name": "Si No Estás",
+      "image": "https://i.scdn.co/image/ab67616d00001e025cb9531348f45311cd6fb8df",
+      "artists": [
+        {
+          "id": "0jbo7KFNMiIkfBR6ih0yhm",
+          "name": "iñigo quintero"
+        }
+      ],
+      "currentRank": 2,
+      "previousRank": 2
+    },
+    {
+      "id": "3vkCueOmm7xQDoJ17W1Pm3",
+      "name": "My Love Mine All Mine",
+      "image": "https://i.scdn.co/image/ab67616d00001e0234f21d3047d85440dfa37f10",
+      "artists": [
+        {
+          "id": "2uYWxilOVlUdk4oV9DvwqK",
+          "name": "Mitski"
+        }
+      ],
+      "currentRank": 3,
+      "previousRank": 5
+    },
+    {
+      "id": "1BxfuPKGuaTgP7aM0Bbdwr",
+      "name": "Cruel Summer",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 4,
+      "previousRank": 4
+    },
+    {
+      "id": "4xhsWYTOGcal8zt0J161CU",
+      "name": "Lovin On Me",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fcf4adae77baba5d0169e8e8",
+      "artists": [
+        {
+          "id": "2LIk90788K0zvyj2JJVwkJ",
+          "name": "Jack Harlow"
+        }
+      ],
+      "currentRank": 5,
+      "previousRank": 15
+    },
+    {
+      "id": "2HRgqmZQC0MC7GeNuDIXHN",
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02741fd4807f442af3f7359316",
+      "artists": [
+        {
+          "id": "6HaGTQPmzraVmaVxvz6EUc",
+          "name": "Jung Kook"
+        },
+        {
+          "id": "3MdXrJWsbVzdn6fe5JYkSQ",
+          "name": "Latto"
+        }
+      ],
+      "currentRank": 6,
+      "previousRank": 7
+    },
+    {
+      "id": "2KslE17cAJNHTsI2MI0jb2",
+      "name": "Standing Next to You",
+      "image": "https://i.scdn.co/image/ab67616d00001e02741fd4807f442af3f7359316",
+      "artists": [
+        {
+          "id": "6HaGTQPmzraVmaVxvz6EUc",
+          "name": "Jung Kook"
+        }
+      ],
+      "currentRank": 7,
+      "previousRank": 3
+    },
+    {
+      "id": "56y1jOTK0XSvJzVv9vHQBK",
+      "name": "Paint The Town Red",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a840032f14ab22da396e43cb",
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat"
+        }
+      ],
+      "currentRank": 8,
+      "previousRank": 9
+    },
+    {
+      "id": "7iQXYTyuG13aoeHxGG28Nh",
+      "name": "PERRO NEGRO",
+      "image": "https://i.scdn.co/image/ab67616d00001e027b1fc51ff3257b5286a1ecec",
+      "artists": [
+        {
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny"
+        },
+        {
+          "id": "2LRoIwlKmHjgvigdNGBHNo",
+          "name": "Feid"
+        }
+      ],
+      "currentRank": 9,
+      "previousRank": 8
+    },
+    {
+      "id": "5mjYQaktjmjcMKcUIcqz4s",
+      "name": "Strangers",
+      "image": "https://i.scdn.co/image/ab67616d00001e024756c2e9ae436437cd75e9f3",
+      "artists": [
+        {
+          "id": "7uMDnSZyUYNBPLhPMNuaM2",
+          "name": "Kenya Grace"
+        }
+      ],
+      "currentRank": 10,
+      "previousRank": 12
+    },
+    {
+      "id": "6CvTEtGagmzQvkUzzyKR9k",
+      "name": "HARLEY QUINN",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ad57982065339f7dc2058efe",
+      "artists": [
+        {
+          "id": "0ys2OFYzWYB5hRDLCsBqxt",
+          "name": "Fuerza Regida"
+        },
+        {
+          "id": "64KEffDW9EtZ1y2vBYgq8T",
+          "name": "Marshmello"
+        }
+      ],
+      "currentRank": 11,
+      "previousRank": 13
+    },
+    {
+      "id": "1Iq8oo9XkmmvCQiGOfORiz",
+      "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02904445d70d04eb24d6bb79ac",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 12,
+      "previousRank": 10
+    },
+    {
+      "id": "4MjDJD8cW7iVeWInc2Bdyj",
+      "name": "MONACO",
+      "image": "https://i.scdn.co/image/ab67616d00001e027b1fc51ff3257b5286a1ecec",
+      "artists": [
+        {
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny"
+        }
+      ],
+      "currentRank": 13,
+      "previousRank": 11
+    },
+    {
+      "id": "0bYg9bo50gSsH3LtXe2SQn",
+      "name": "All I Want for Christmas Is You",
+      "image": "https://i.scdn.co/image/ab67616d00001e024246e3158421f5abb75abc4f",
+      "artists": [
+        {
+          "id": "4iHNK0tOyZPYnBU7nGAgpQ",
+          "name": "Mariah Carey"
+        }
+      ],
+      "currentRank": 14,
+      "previousRank": 34
+    },
+    {
+      "id": "5RqSsdzTNPX1uzkmlHCFvK",
+      "name": "QLONA",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d026bf9d7780f6a1267b4d03",
+      "artists": [
+        {
+          "id": "790FomKkXshlbRYZFtlgla",
+          "name": "KAROL G"
+        },
+        {
+          "id": "12GqGscKJx3aE4t07u7eVZ",
+          "name": "Peso Pluma"
+        }
+      ],
+      "currentRank": 15,
+      "previousRank": 16
+    },
+    {
+      "id": "5PyDJG7SQRgWXefgexqIge",
+      "name": "Agora Hills",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a840032f14ab22da396e43cb",
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat"
+        }
+      ],
+      "currentRank": 16,
+      "previousRank": 17
+    },
+    {
+      "id": "4OMJGnvZfDvsePyCwRGO7X",
+      "name": "Houdini",
+      "image": "https://i.scdn.co/image/ab67616d00001e02001d5706fddc72561f6488af",
+      "artists": [
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa"
+        }
+      ],
+      "currentRank": 17,
+      "previousRank": 6
+    },
+    {
+      "id": "6uIIdjYTxxpWOyWuVXrKQO",
+      "name": "Que Onda",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c8fd4190e32eed2dfcd00f66",
+      "artists": [
+        {
+          "id": "6dLuQ5qXxIuWc5urxfIiZR",
+          "name": "Calle 24"
+        },
+        {
+          "id": "2rmkQLzj0k4nZdQehOUByO",
+          "name": "Chino Pacas"
+        },
+        {
+          "id": "0ys2OFYzWYB5hRDLCsBqxt",
+          "name": "Fuerza Regida"
+        }
+      ],
+      "currentRank": 18,
+      "previousRank": 18
+    },
+    {
+      "id": "06qMRF18gwbOYYbnP2du6i",
+      "name": "Last Christmas - Single Version",
+      "image": "https://i.scdn.co/image/ab67616d00001e024b68569ae3fdd6fcd0f98615",
+      "artists": [
+        {
+          "id": "5lpH0xAS4fVfLkACg9DAuM",
+          "name": "Wham!"
+        }
+      ],
+      "currentRank": 19,
+      "previousRank": 48
+    },
+    {
+      "id": "5aIVCx5tnk0ntmdiinnYvw",
+      "name": "Water",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d20231861e86a6f74ef2393e",
+      "artists": [
+        {
+          "id": "3SozjO3Lat463tQICI9LcE",
+          "name": "Tyla"
+        }
+      ],
+      "currentRank": 20,
+      "previousRank": 14
+    },
+    {
+      "id": "5XeFesFbtLpXzIVDNQP22n",
+      "name": "I Wanna Be Yours",
+      "image": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+      "artists": [
+        {
+          "id": "7Ln80lUS6He07XvHI8qqHH",
+          "name": "Arctic Monkeys"
+        }
+      ],
+      "currentRank": 21,
+      "previousRank": 19
+    },
+    {
+      "id": "7ABLbnD53cQK00mhcaOUVG",
+      "name": "LALA",
+      "image": "https://i.scdn.co/image/ab67616d00001e020656d5ce813ca3cc4b677e05",
+      "artists": [
+        {
+          "id": "7iK8PXO48WeuP03g8YR51W",
+          "name": "Myke Towers"
+        }
+      ],
+      "currentRank": 22,
+      "previousRank": 21
+    },
+    {
+      "id": "4bw8mcDUSRWfQo63ZTYRnU",
+      "name": "Según Quién",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d688b951a19f48941682e026",
+      "artists": [
+        {
+          "id": "1r4hJ1h58CWwUQe3MxPuau",
+          "name": "Maluma"
+        },
+        {
+          "id": "66ihevNkSYNzRAl44dx6jJ",
+          "name": "Carin Leon"
+        }
+      ],
+      "currentRank": 23,
+      "previousRank": 23
+    },
+    {
+      "id": "1kuGVB7EU95pJObxwvfwKS",
+      "name": "vampire",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo"
+        }
+      ],
+      "currentRank": 24,
+      "previousRank": 27
+    },
+    {
+      "id": "4Dvkj6JhhA12EX05fT7y2e",
+      "name": "As It Was",
+      "image": "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles"
+        }
+      ],
+      "currentRank": 25,
+      "previousRank": 24
+    },
+    {
+      "id": "0HD8mbiPjp3o94X3EaZp0o",
+      "name": "exes",
+      "image": "https://i.scdn.co/image/ab67616d00001e023abcdf926da7799a87d36406",
+      "artists": [
+        {
+          "id": "45dkTj5sMRSjrmBSBeiHym",
+          "name": "Tate McRae"
+        }
+      ],
+      "currentRank": 26,
+      "previousRank": -1
+    },
+    {
+      "id": "59NraMJsLaMCVtwXTSia8i",
+      "name": "Prada",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e4b7dccdfd54375ded9ccc5c",
+      "artists": [
+        {
+          "id": "5wCmhq5J2hPwL2r0eKurxn",
+          "name": "cassö"
+        },
+        {
+          "id": "5KKpBU5eC2tJDzf0wmlRp2",
+          "name": "RAYE"
+        },
+        {
+          "id": "5VadK1havLhK1OpKYsXv9y",
+          "name": "D-Block Europe"
+        }
+      ],
+      "currentRank": 27,
+      "previousRank": 28
+    },
+    {
+      "id": "01qFKNWq73UfEslI0GvumE",
+      "name": "3D (feat. Jack Harlow)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0299583bb32b47e87d55c6064b",
+      "artists": [
+        {
+          "id": "6HaGTQPmzraVmaVxvz6EUc",
+          "name": "Jung Kook"
+        },
+        {
+          "id": "2LIk90788K0zvyj2JJVwkJ",
+          "name": "Jack Harlow"
+        }
+      ],
+      "currentRank": 28,
+      "previousRank": 20
+    },
+    {
+      "id": "1odExI7RdWc4BT515LTAwj",
+      "name": "Daylight",
+      "image": "https://i.scdn.co/image/ab67616d00001e0295ca6a9b4083a86c149934ae",
+      "artists": [
+        {
+          "id": "33NVpKoXjItPwUJTMZIOiY",
+          "name": "David Kushner"
+        }
+      ],
+      "currentRank": 29,
+      "previousRank": 26
+    },
+    {
+      "id": "7CyPwkp0oE8Ro9Dd5CUDjW",
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b0dd6a5cd1dec96c4119c262",
+      "artists": [
+        {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd"
+        },
+        {
+          "id": "250b0Wlc5Vk0CoUsaCY84M",
+          "name": "JENNIE"
+        },
+        {
+          "id": "1pBLC0qVRTB5zVMuteQ9jJ",
+          "name": "Lily-Rose Depp"
+        }
+      ],
+      "currentRank": 30,
+      "previousRank": 31
+    },
+    {
+      "id": "0mflMxspEfB0VbI1kyLiAv",
+      "name": "Stick Season",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ee35072df1af802cca09918",
+      "artists": [
+        {
+          "id": "2RQXRUsr4IW1f3mKyKsy4B",
+          "name": "Noah Kahan"
+        }
+      ],
+      "currentRank": 31,
+      "previousRank": 32
+    },
+    {
+      "id": "2YSzYUF3jWqb9YP9VXmpjE",
+      "name": "IDGAF (feat. Yeat)",
+      "image": "https://i.scdn.co/image/ab67616d00001e027d384516b23347e92a587ed1",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake"
+        },
+        {
+          "id": "3qiHUAX7zY4Qnjx8TNUzVx",
+          "name": "Yeat"
+        }
+      ],
+      "currentRank": 32,
+      "previousRank": 39
+    },
+    {
+      "id": "1vYXt7VSjH9JIM5oRRo7vA",
+      "name": "Dance The Night - From Barbie The Album",
+      "image": "https://i.scdn.co/image/ab67616d00001e027dd3ba455ee3390cb55b0192",
+      "artists": [
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa"
+        }
+      ],
+      "currentRank": 33,
+      "previousRank": 25
+    },
+    {
+      "id": "1Qrg8KqiBpW07V7PNxwwwL",
+      "name": "Kill Bill",
+      "image": "https://i.scdn.co/image/ab67616d00001e020c471c36970b9406233842a5",
+      "artists": [
+        {
+          "id": "7tYKF4w9nC0nq9CsPZTHyP",
+          "name": "SZA"
+        }
+      ],
+      "currentRank": 34,
+      "previousRank": 33
+    },
+    {
+      "id": "7mXuWTczZNxG5EDcjFEuJR",
+      "name": "LADY GAGA",
+      "image": "https://i.scdn.co/image/ab67616d00001e022fb583ed96f8f35cbf2897ba",
+      "artists": [
+        {
+          "id": "12GqGscKJx3aE4t07u7eVZ",
+          "name": "Peso Pluma"
+        },
+        {
+          "id": "6Sbl0NT50roqWvy746MfVf",
+          "name": "Gabito Ballesteros"
+        },
+        {
+          "id": "7Gi6gjaWy3DxyilpF1a8Is",
+          "name": "Junior H"
+        }
+      ],
+      "currentRank": 35,
+      "previousRank": 29
+    },
+    {
+      "id": "3hRV0jL3vUpRrcy398teAU",
+      "name": "The Night We Met",
+      "image": "https://i.scdn.co/image/ab67616d00001e029d2efe43d5b7ebc7cb60ca81",
+      "artists": [
+        {
+          "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+          "name": "Lord Huron"
+        }
+      ],
+      "currentRank": 36,
+      "previousRank": 40
+    },
+    {
+      "id": "7MXVkk9YMctZqd1Srtv4MB",
+      "name": "Starboy",
+      "image": "https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452",
+      "artists": [
+        {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd"
+        },
+        {
+          "id": "4tZwfgrHOc3mvqYlEYSvVi",
+          "name": "Daft Punk"
+        }
+      ],
+      "currentRank": 37,
+      "previousRank": 30
+    },
+    {
+      "id": "5KD6AEm19QnMbfWpfoOHMl",
+      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02904445d70d04eb24d6bb79ac",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 38,
+      "previousRank": 22
+    },
+    {
+      "id": "2EjXfH91m7f8HiJN1yQg97",
+      "name": "Rockin' Around The Christmas Tree",
+      "image": "https://i.scdn.co/image/ab67616d00001e027845f74d6db14b400fa61cd3",
+      "artists": [
+        {
+          "id": "4cPHsZM98sKzmV26wlwD2W",
+          "name": "Brenda Lee"
+        }
+      ],
+      "currentRank": 39,
+      "previousRank": 158
+    },
+    {
+      "id": "4KULAymBBJcPRpk1yO4dOG",
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e5a25ed08d1e7e0fbb440cef",
+      "artists": [
+        {
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan"
+        },
+        {
+          "id": "70kkdajctXSbqSMJbQO424",
+          "name": "Kacey Musgraves"
+        }
+      ],
+      "currentRank": 40,
+      "previousRank": 37
+    },
+    {
+      "id": "7jtQIBanIiJOMS6RyCx6jZ",
+      "name": "Another Love",
+      "image": "https://i.scdn.co/image/ab67616d00001e021917a0f3f4152622a040913f",
+      "artists": [
+        {
+          "id": "2txHhyCwHjUEpJjWrEyqyX",
+          "name": "Tom Odell"
+        }
+      ],
+      "currentRank": 41,
+      "previousRank": 41
+    },
+    {
+      "id": "17cia5k4BpGVlyEfqrFH50",
+      "name": "Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "image": "https://i.scdn.co/image/ab67616d00001e0222ad9f1afdbeeceaf0c91686",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo"
+        }
+      ],
+      "currentRank": 42,
+      "previousRank": 167
+    },
+    {
+      "id": "7aqfrAY2p9BUSiupwk3svU",
+      "name": "First Person Shooter (feat. J. Cole)",
+      "image": "https://i.scdn.co/image/ab67616d00001e027d384516b23347e92a587ed1",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake"
+        },
+        {
+          "id": "6l3HvQ5sa6mXTsMTB19rO5",
+          "name": "J. Cole"
+        }
+      ],
+      "currentRank": 43,
+      "previousRank": 89
+    },
+    {
+      "id": "6wf7Yu7cxBSPrRlWeSeK0Q",
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ed317ec13d3de9e01fb99c9e",
+      "artists": [
+        {
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish"
+        }
+      ],
+      "currentRank": 44,
+      "previousRank": 36
+    },
+    {
+      "id": "6XbtvPmIpyCbjuT0e8cQtp",
+      "name": "Columbia",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a00a817b017c6f6bf8460be9",
+      "artists": [
+        {
+          "id": "52iwsT98xCoGgiGntTiR7K",
+          "name": "Quevedo"
+        }
+      ],
+      "currentRank": 45,
+      "previousRank": 43
+    },
+    {
+      "id": "2QjOHCTQ1Jl3zawyYOpxh6",
+      "name": "Sweater Weather",
+      "image": "https://i.scdn.co/image/ab67616d00001e028265a736a1eb838ad5a0b921",
+      "artists": [
+        {
+          "id": "77SW9BnxLY8rJ0RciFqkHh",
+          "name": "The Neighbourhood"
+        }
+      ],
+      "currentRank": 46,
+      "previousRank": 44
+    },
+    {
+      "id": "4rXLjWdF2ZZpXCVTfWcshS",
+      "name": "fukumean",
+      "image": "https://i.scdn.co/image/ab67616d00001e02017d5e26552345c4b1575b6c",
+      "artists": [
+        {
+          "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+          "name": "Gunna"
+        }
+      ],
+      "currentRank": 47,
+      "previousRank": 42
+    },
+    {
+      "id": "1dGr1c8CrMLDpV6mPbImSI",
+      "name": "Lover",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 48,
+      "previousRank": 49
+    },
+    {
+      "id": "6p1GHnHSJSma1orNgP7NoE",
+      "name": "Jingle Bell Rock",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fd56f3c7a294f5cfe51c7b17",
+      "artists": [
+        {
+          "id": "38EmEgXkgK51MT2tPY0EoC",
+          "name": "Bobby Helms"
+        }
+      ],
+      "currentRank": 49,
+      "previousRank": 153
+    },
+    {
+      "id": "0V3wPSX9ygBnCm8psDIegu",
+      "name": "Anti-Hero",
+      "image": "https://i.scdn.co/image/ab67616d00001e02bb54dde68cd23e2a268ae0f5",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 50,
+      "previousRank": 45
+    }
+  ],
+  "weeklyAlbums": [
+    {
+      "id": "64LU4c1nfjz1t4VnGhagcg",
+      "name": "1989 (Taylor's Version)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02904445d70d04eb24d6bb79ac",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 1,
+      "previousRank": 1
+    },
+    {
+      "id": "4czdORdCWP9umpbhFXK2fW",
+      "name": "For All The Dogs",
+      "image": "https://i.scdn.co/image/ab67616d00001e027d384516b23347e92a587ed1",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake"
+        }
+      ],
+      "currentRank": 2,
+      "previousRank": 7
+    },
+    {
+      "id": "4FftCsAcXXD1nFO9RFUNFO",
+      "name": "nadie sabe lo que va a pasar mañana",
+      "image": "https://i.scdn.co/image/ab67616d00001e027b1fc51ff3257b5286a1ecec",
+      "artists": [
+        {
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny"
+        }
+      ],
+      "currentRank": 3,
+      "previousRank": 2
+    },
+    {
+      "id": "5pSk3c3wVwnb2arb6ohCPU",
+      "name": "GOLDEN",
+      "image": "https://i.scdn.co/image/ab67616d00001e02741fd4807f442af3f7359316",
+      "artists": [
+        {
+          "id": "6HaGTQPmzraVmaVxvz6EUc",
+          "name": "Jung Kook"
+        }
+      ],
+      "currentRank": 4,
+      "previousRank": 3
+    },
+    {
+      "id": "1NAmidJlEaVgA3MpcPFYGq",
+      "name": "Lover",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 5,
+      "previousRank": 4
+    },
+    {
+      "id": "151w1FgRZfnKZA9FEcg9Z3",
+      "name": "Midnights",
+      "image": "https://i.scdn.co/image/ab67616d00001e02bb54dde68cd23e2a268ae0f5",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 6,
+      "previousRank": 5
+    },
+    {
+      "id": "4jox3ip1I39DFC2B7R5qLH",
+      "name": "GÉNESIS",
+      "image": "https://i.scdn.co/image/ab67616d00001e022fb583ed96f8f35cbf2897ba",
+      "artists": [
+        {
+          "id": "12GqGscKJx3aE4t07u7eVZ",
+          "name": "Peso Pluma"
+        }
+      ],
+      "currentRank": 7,
+      "previousRank": 6
+    },
+    {
+      "id": "3ilgQgVMtxAxN2Jmb1OM29",
+      "name": "X2VR",
+      "image": "https://i.scdn.co/image/ab67616d00001e023c0eada9fb45ba9d43116f1d",
+      "artists": [
+        {
+          "id": "23TFHmajVfBtlRx5MXqgoz",
+          "name": "Sfera Ebbasta"
+        }
+      ],
+      "currentRank": 8,
+      "previousRank": -1
+    },
+    {
+      "id": "2ODvWsOgouMbaA5xf0RkJe",
+      "name": "Starboy",
+      "image": "https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452",
+      "artists": [
+        {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd"
+        }
+      ],
+      "currentRank": 9,
+      "previousRank": 8
+    },
+    {
+      "id": "07w0rG5TETcyihsEIZR3qG",
+      "name": "SOS",
+      "image": "https://i.scdn.co/image/ab67616d00001e0270dbc9f47669d120ad874ec1",
+      "artists": [
+        {
+          "id": "7tYKF4w9nC0nq9CsPZTHyP",
+          "name": "SZA"
+        }
+      ],
+      "currentRank": 10,
+      "previousRank": 9
+    },
+    {
+      "id": "3RQQmkQEvNCY4prGKE6oc5",
+      "name": "Un Verano Sin Ti",
+      "image": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+      "artists": [
+        {
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny"
+        }
+      ],
+      "currentRank": 11,
+      "previousRank": 10
+    },
+    {
+      "id": "2fenSS68JI1h4Fo296JfGr",
+      "name": "folklore",
+      "image": "https://i.scdn.co/image/ab67616d00001e0295f754318336a07e85ec59bc",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 12,
+      "previousRank": 11
+    },
+    {
+      "id": "3zu0hJJew2qXZNlselIQk8",
+      "name": "Pa las Baby's Y Belikeada",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ad57982065339f7dc2058efe",
+      "artists": [
+        {
+          "id": "0ys2OFYzWYB5hRDLCsBqxt",
+          "name": "Fuerza Regida"
+        }
+      ],
+      "currentRank": 13,
+      "previousRank": 12
+    },
+    {
+      "id": "6DEjYFkNZh67HP7R9PSZvv",
+      "name": "reputation",
+      "image": "https://i.scdn.co/image/ab67616d00001e02da5d5aeeabacacc1263c0f4b",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 14,
+      "previousRank": 13
+    },
+    {
+      "id": "1xJHno7SmdVtZAtXbdbDZp",
+      "name": "GUTS",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo"
+        }
+      ],
+      "currentRank": 15,
+      "previousRank": 14
+    },
+    {
+      "id": "18NOKLkZETa4sWwLMIm0UZ",
+      "name": "UTOPIA",
+      "image": "https://i.scdn.co/image/ab67616d00001e02881d8d8378cd01099babcd44",
+      "artists": [
+        {
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott"
+        }
+      ],
+      "currentRank": 16,
+      "previousRank": 16
+    },
+    {
+      "id": "6DmPNcfpkXBVRJsEIJY9tl",
+      "name": "Scarlet",
+      "image": "https://i.scdn.co/image/ab67616d00001e0294203dd82d27b494c777d07c",
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat"
+        }
+      ],
+      "currentRank": 17,
+      "previousRank": 15
+    },
+    {
+      "id": "0FqAaUEyKCyUNFE1uQPZ7i",
+      "name": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d026bf9d7780f6a1267b4d03",
+      "artists": [
+        {
+          "id": "790FomKkXshlbRYZFtlgla",
+          "name": "KAROL G"
+        }
+      ],
+      "currentRank": 18,
+      "previousRank": 18
+    },
+    {
+      "id": "78bpIziExqiI9qztvNFlQu",
+      "name": "AM",
+      "image": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+      "artists": [
+        {
+          "id": "7Ln80lUS6He07XvHI8qqHH",
+          "name": "Arctic Monkeys"
+        }
+      ],
+      "currentRank": 19,
+      "previousRank": 19
+    },
+    {
+      "id": "0BaIaHcyBXuOWeM4Aas4EW",
+      "name": "Barbie The Album",
+      "image": "https://i.scdn.co/image/ab67616d00001e02d16ac0ec27653182d719ab36",
+      "artists": [
+        {
+          "id": "0LyfQWJT6nXafLPZqxe9Of",
+          "name": "Various Artists"
+        }
+      ],
+      "currentRank": 20,
+      "previousRank": 17
+    },
+    {
+      "id": "4kS7bSuU0Jm9LYMosFU2x5",
+      "name": "MAÑANA SERÁ BONITO",
+      "image": "https://i.scdn.co/image/ab67616d00001e0282de1ca074ae63cb18fce335",
+      "artists": [
+        {
+          "id": "790FomKkXshlbRYZFtlgla",
+          "name": "KAROL G"
+        }
+      ],
+      "currentRank": 21,
+      "previousRank": 23
+    },
+    {
+      "id": "5i9lMMUZ1QZNsLEE3j50kT",
+      "name": "El Comienzo",
+      "image": "https://i.scdn.co/image/ab67616d00001e0282ce4c7bbf861185252e82ae",
+      "artists": [
+        {
+          "id": "6XkjpgcEsYab502Vr1bBeW",
+          "name": "Grupo Frontera"
+        }
+      ],
+      "currentRank": 22,
+      "previousRank": 24
+    },
+    {
+      "id": "6s84u2TUpR3wdUv4NgKA2j",
+      "name": "SOUR",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo"
+        }
+      ],
+      "currentRank": 23,
+      "previousRank": 21
+    },
+    {
+      "id": "6i7mF7whyRJuLJ4ogbH2wh",
+      "name": "One Thing At A Time",
+      "image": "https://i.scdn.co/image/ab67616d00001e02705079df9a25a28b452c1fc9",
+      "artists": [
+        {
+          "id": "4oUHIQIBe0LHzYfvXNW4QM",
+          "name": "Morgan Wallen"
+        }
+      ],
+      "currentRank": 24,
+      "previousRank": 22
+    },
+    {
+      "id": "7txGsnDSqVMoRl6RQ9XyZP",
+      "name": "HEROES & VILLAINS",
+      "image": "https://i.scdn.co/image/ab67616d00001e02c4fee55d7b51479627c31f89",
+      "artists": [
+        {
+          "id": "0iEtIxbK0KxaSlF7G42ZOp",
+          "name": "Metro Boomin"
+        }
+      ],
+      "currentRank": 25,
+      "previousRank": 25
+    },
+    {
+      "id": "6kZ42qRrzov54LcAk4onW9",
+      "name": "Red (Taylor's Version)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02318443aab3531a0558e79a4d",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 26,
+      "previousRank": 28
+    },
+    {
+      "id": "4yP0hdKOZPNshxUOjY0cZj",
+      "name": "After Hours",
+      "image": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+      "artists": [
+        {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd"
+        }
+      ],
+      "currentRank": 27,
+      "previousRank": 29
+    },
+    {
+      "id": "50ZenUP4O2Q5eCy2NRNvuz",
+      "name": "Stick Season",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ee35072df1af802cca09918",
+      "artists": [
+        {
+          "id": "2RQXRUsr4IW1f3mKyKsy4B",
+          "name": "Noah Kahan"
+        }
+      ],
+      "currentRank": 28,
+      "previousRank": 27
+    },
+    {
+      "id": "5r36AJ6VOJtp00oxSkBZ5h",
+      "name": "Harry's House",
+      "image": "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles"
+        }
+      ],
+      "currentRank": 29,
+      "previousRank": 32
+    },
+    {
+      "id": "5AEDGbliTTfjOB8TSm1sxt",
+      "name": "Speak Now (Taylor's Version)",
+      "image": "https://i.scdn.co/image/ab67616d00001e020b04da4f224b51ff86e0a481",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 30,
+      "previousRank": 31
+    },
+    {
+      "id": "5VoeRuTrGhTbKelUfwymwu",
+      "name": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ebc8cfac8b586bc475b04918",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey"
+        }
+      ],
+      "currentRank": 31,
+      "previousRank": 33
+    },
+    {
+      "id": "1yGbNOtRIgdIiGHOEBaZWf",
+      "name": "1989 (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0252b2a3824413eefe9e33817a",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 32,
+      "previousRank": 30
+    },
+    {
+      "id": "4SZko61aMnmgvNhfhgTuD3",
+      "name": "Graduation",
+      "image": "https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a",
+      "artists": [
+        {
+          "id": "5K4W6rqBFWDnAN6FQUkS6x",
+          "name": "Kanye West"
+        }
+      ],
+      "currentRank": 33,
+      "previousRank": 36
+    },
+    {
+      "id": "2Xoteh7uEpea4TohMxjtaq",
+      "name": "evermore",
+      "image": "https://i.scdn.co/image/ab67616d00001e0233b8541201f1ef38941024be",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 34,
+      "previousRank": 37
+    },
+    {
+      "id": "7uVimUILdzSZG4KKKWToq0",
+      "name": "Christmas (Deluxe Special Edition)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02119e4094f07a8123b471ac1d",
+      "artists": [
+        {
+          "id": "1GxkXlMwML1oSg5eLPiAz3",
+          "name": "Michael Bublé"
+        }
+      ],
+      "currentRank": 35,
+      "previousRank": 80
+    },
+    {
+      "id": "4KNN5lVMc1EREJFlbppJqH",
+      "name": "Sugar Papi",
+      "image": "https://i.scdn.co/image/ab67616d00001e026a84be92318cebb5ac7fbc47",
+      "artists": [
+        {
+          "id": "64KEffDW9EtZ1y2vBYgq8T",
+          "name": "Marshmello"
+        }
+      ],
+      "currentRank": 36,
+      "previousRank": 34
+    },
+    {
+      "id": "6PbnGueEO6LGodPfvNldYf",
+      "name": "Zach Bryan",
+      "image": "https://i.scdn.co/image/ab67616d00001e02e5a25ed08d1e7e0fbb440cef",
+      "artists": [
+        {
+          "id": "40ZNYROS4zLfyyBSs2PGe2",
+          "name": "Zach Bryan"
+        }
+      ],
+      "currentRank": 37,
+      "previousRank": 38
+    },
+    {
+      "id": "1uyf3l2d4XYwiEqAb7t7fX",
+      "name": "Doo-Wops & Hooligans",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b",
+      "artists": [
+        {
+          "id": "0du5cEVh5yTK9QJze8zA0C",
+          "name": "Bruno Mars"
+        }
+      ],
+      "currentRank": 38,
+      "previousRank": 44
+    },
+    {
+      "id": "4hDok0OAJd57SGIT8xuWJH",
+      "name": "Fearless (Taylor's Version)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a48964b5d9a3d6968ae3e0de",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift"
+        }
+      ],
+      "currentRank": 39,
+      "previousRank": 39
+    },
+    {
+      "id": "4g1ZRSobMefqF6nelkgibi",
+      "name": "Hollywood's Bleeding",
+      "image": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+      "artists": [
+        {
+          "id": "246dkjvS1zLTtiykXe5h60",
+          "name": "Post Malone"
+        }
+      ],
+      "currentRank": 40,
+      "previousRank": 43
+    },
+    {
+      "id": "2Cn1d2KgbkAqbZCJ1RzdkA",
+      "name": "The Land Is Inhospitable and So Are We",
+      "image": "https://i.scdn.co/image/ab67616d00001e0234f21d3047d85440dfa37f10",
+      "artists": [
+        {
+          "id": "2uYWxilOVlUdk4oV9DvwqK",
+          "name": "Mitski"
+        }
+      ],
+      "currentRank": 41,
+      "previousRank": 45
+    },
+    {
+      "id": "7Lv6VzSqIz1sAssK2JUskG",
+      "name": "$AD BOYZ 4 LIFE II",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f3ba6742a35f111aaea1ca2f",
+      "artists": [
+        {
+          "id": "7Gi6gjaWy3DxyilpF1a8Is",
+          "name": "Junior H"
+        }
+      ],
+      "currentRank": 42,
+      "previousRank": 42
+    },
+    {
+      "id": "7fJJK56U9fHixgO0HQkhtI",
+      "name": "Future Nostalgia",
+      "image": "https://i.scdn.co/image/ab67616d00001e024bc66095f8a70bc4e6593f4f",
+      "artists": [
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa"
+        }
+      ],
+      "currentRank": 43,
+      "previousRank": 40
+    },
+    {
+      "id": "6al2VdKbb6FIz9d7lU7WRB",
+      "name": "Proof",
+      "image": "https://i.scdn.co/image/ab67616d00001e0217db30ce3f081d6818a8ad49",
+      "artists": [
+        {
+          "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+          "name": "BTS"
+        }
+      ],
+      "currentRank": 44,
+      "previousRank": 47
+    },
+    {
+      "id": "5Gm2XKBgnlzd6qTi7LE1z2",
+      "name": "Alone At Prom",
+      "image": "https://i.scdn.co/image/ab67616d00001e020c5f23cbf0b1ab7e37d0dc67",
+      "artists": [
+        {
+          "id": "2jku7tDXc6XoB6MO2hFuqg",
+          "name": "Tory Lanez"
+        }
+      ],
+      "currentRank": 45,
+      "previousRank": 128
+    },
+    {
+      "id": "61ulfFSmmxMhc2wCdmdMkN",
+      "name": "Merry Christmas",
+      "image": "https://i.scdn.co/image/ab67616d00001e024246e3158421f5abb75abc4f",
+      "artists": [
+        {
+          "id": "4iHNK0tOyZPYnBU7nGAgpQ",
+          "name": "Mariah Carey"
+        }
+      ],
+      "currentRank": 46,
+      "previousRank": 106
+    },
+    {
+      "id": "5BvgP623rtvlc0HDcpzquz",
+      "name": "Teenage Dream: The Complete Confection",
+      "image": "https://i.scdn.co/image/ab67616d00001e02937af329667311f4b2831616",
+      "artists": [
+        {
+          "id": "6jJ0s89eD6GaHleKKya26X",
+          "name": "Katy Perry"
+        }
+      ],
+      "currentRank": 47,
+      "previousRank": 46
+    },
+    {
+      "id": "5duyQokC4FMcWPYTV9Gpf9",
+      "name": "21",
+      "image": "https://i.scdn.co/image/ab67616d00001e02164feb363334f93b6458d2a9",
+      "artists": [
+        {
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele"
+        }
+      ],
+      "currentRank": 48,
+      "previousRank": 48
+    },
+    {
+      "id": "3T4tUhGYeRNVUGevb0wThu",
+      "name": "÷ (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96",
+      "artists": [
+        {
+          "id": "6eUKZXaKkcviH0Ku9w2n3V",
+          "name": "Ed Sheeran"
+        }
+      ],
+      "currentRank": 49,
+      "previousRank": 49
+    },
+    {
+      "id": "0tL8CzbfmF5poGm9puqALR",
+      "name": "11:11",
+      "image": "https://i.scdn.co/image/ab67616d00001e02649d02a68c64fd203c183e54",
+      "artists": [
+        {
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown"
+        }
+      ],
+      "currentRank": 50,
+      "previousRank": 35
+    }
+  ],
+  "weeklyArtists": [
+    {
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "image": "https://i.scdn.co/image/ab67616100005174859e4c14fa59296c8649e0e4",
+      "currentRank": 1,
+      "previousRank": 1
+    },
+    {
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "image": "https://i.scdn.co/image/ab676161000051744293385d324db8558179afd9",
+      "currentRank": 2,
+      "previousRank": 3
+    },
+    {
+      "id": "4q3ewBCX7sLwd24euuV69X",
+      "name": "Bad Bunny",
+      "image": "https://i.scdn.co/image/ab676161000051749ad50e478a469448c6f369df",
+      "currentRank": 3,
+      "previousRank": 2
+    },
+    {
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "image": "https://i.scdn.co/image/ab67616100005174214f3cf1cbe7139c1e26ffbb",
+      "currentRank": 4,
+      "previousRank": 4
+    },
+    {
+      "id": "12GqGscKJx3aE4t07u7eVZ",
+      "name": "Peso Pluma",
+      "image": "https://i.scdn.co/image/ab67616100005174730e71d60e047f1061a9e697",
+      "currentRank": 5,
+      "previousRank": 5
+    },
+    {
+      "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "name": "Travis Scott",
+      "image": "https://i.scdn.co/image/ab6761610000517419c2790744c792d05570bb71",
+      "currentRank": 6,
+      "previousRank": 6
+    },
+    {
+      "id": "5K4W6rqBFWDnAN6FQUkS6x",
+      "name": "Kanye West",
+      "image": "https://i.scdn.co/image/ab67616100005174867008a971fae0f4d913f63a",
+      "currentRank": 7,
+      "previousRank": 8
+    },
+    {
+      "id": "4YRxDV8wJFPHPTeXepOstw",
+      "name": "Arijit Singh",
+      "image": "https://i.scdn.co/image/ab676161000051740261696c5df3be99da6ed3f3",
+      "currentRank": 8,
+      "previousRank": 11
+    },
+    {
+      "id": "2LRoIwlKmHjgvigdNGBHNo",
+      "name": "Feid",
+      "image": "https://i.scdn.co/image/ab676161000051749e7c05016af970bb9bf76cc1",
+      "currentRank": 9,
+      "previousRank": 7
+    },
+    {
+      "id": "7Gi6gjaWy3DxyilpF1a8Is",
+      "name": "Junior H",
+      "image": "https://i.scdn.co/image/ab67616100005174b5ccab5d3dc10a08d89cbd76",
+      "currentRank": 10,
+      "previousRank": 10
+    },
+    {
+      "id": "790FomKkXshlbRYZFtlgla",
+      "name": "KAROL G",
+      "image": "https://i.scdn.co/image/ab67616100005174eb97a2403d7b9a631ce0f59c",
+      "currentRank": 11,
+      "previousRank": 12
+    },
+    {
+      "id": "00FQb4jTyendYWaN8pK0wa",
+      "name": "Lana Del Rey",
+      "image": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261",
+      "currentRank": 12,
+      "previousRank": 13
+    },
+    {
+      "id": "1McMsnEElThX1knmY4oliG",
+      "name": "Olivia Rodrigo",
+      "image": "https://i.scdn.co/image/ab67616100005174e03a98785f3658f0b6461ec4",
+      "currentRank": 13,
+      "previousRank": 19
+    },
+    {
+      "id": "6HaGTQPmzraVmaVxvz6EUc",
+      "name": "Jung Kook",
+      "image": "https://i.scdn.co/image/ab6761610000517440a7268dd742e5f63759b960",
+      "currentRank": 14,
+      "previousRank": 9
+    },
+    {
+      "id": "7tYKF4w9nC0nq9CsPZTHyP",
+      "name": "SZA",
+      "image": "https://i.scdn.co/image/ab676161000051747eb7f6371aad8e67e01f0a03",
+      "currentRank": 15,
+      "previousRank": 15
+    },
+    {
+      "id": "0ys2OFYzWYB5hRDLCsBqxt",
+      "name": "Fuerza Regida",
+      "image": "https://i.scdn.co/image/ab676161000051741b85fbf9507041aab224336d",
+      "currentRank": 16,
+      "previousRank": 14
+    },
+    {
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "image": "https://i.scdn.co/image/ab67616100005174cdce7620dc940db079bf4952",
+      "currentRank": 17,
+      "previousRank": 18
+    },
+    {
+      "id": "7dGJo4pcD2V6oG8kP0tJRR",
+      "name": "Eminem",
+      "image": "https://i.scdn.co/image/ab67616100005174a00b11c129b27a88fc72f36b",
+      "currentRank": 18,
+      "previousRank": 16
+    },
+    {
+      "id": "4gzpq5DPGxSnKTe4SA8HAU",
+      "name": "Coldplay",
+      "image": "https://i.scdn.co/image/ab67616100005174989ed05e1f0570cc4726c2d3",
+      "currentRank": 19,
+      "previousRank": 26
+    },
+    {
+      "id": "1URnnhqYAYcrqrcwql10ft",
+      "name": "21 Savage",
+      "image": "https://i.scdn.co/image/ab6761610000517435ca7d2181258b51c0f2cf9e",
+      "currentRank": 20,
+      "previousRank": 20
+    },
+    {
+      "id": "5pKCCKE2ajJHZ9KAiaK11H",
+      "name": "Rihanna",
+      "image": "https://i.scdn.co/image/ab6761610000517499e4fca7c0b7cb166d915789",
+      "currentRank": 21,
+      "previousRank": 17
+    },
+    {
+      "id": "1uNFoZAHBGtllmzznpCI3s",
+      "name": "Justin Bieber",
+      "image": "https://i.scdn.co/image/ab676161000051748ae7f2aaa9817a704a87ea36",
+      "currentRank": 22,
+      "previousRank": 24
+    },
+    {
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "name": "Billie Eilish",
+      "image": "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf",
+      "currentRank": 23,
+      "previousRank": 23
+    },
+    {
+      "id": "5cj0lLjcoR7YOSnhnX0Po5",
+      "name": "Doja Cat",
+      "image": "https://i.scdn.co/image/ab676161000051747f6d6cac38d494e87692af99",
+      "currentRank": 24,
+      "previousRank": 22
+    },
+    {
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "image": "https://i.scdn.co/image/ab676161000051743bcef85e105dfc42399ef0ba",
+      "currentRank": 25,
+      "previousRank": 27
+    },
+    {
+      "id": "246dkjvS1zLTtiykXe5h60",
+      "name": "Post Malone",
+      "image": "https://i.scdn.co/image/ab676161000051746be070445b03e0b63147c2c1",
+      "currentRank": 26,
+      "previousRank": 25
+    },
+    {
+      "id": "1wRPtKGflJrBx9BmLsSwlU",
+      "name": "Pritam",
+      "image": "https://i.scdn.co/image/ab67616100005174cb6926f44f620555ba444fca",
+      "currentRank": 27,
+      "previousRank": 30
+    },
+    {
+      "id": "1mcTU81TzQhprhouKaTkpq",
+      "name": "Rauw Alejandro",
+      "image": "https://i.scdn.co/image/ab676161000051749047f938310ea16b68a5bdeb",
+      "currentRank": 28,
+      "previousRank": 33
+    },
+    {
+      "id": "40ZNYROS4zLfyyBSs2PGe2",
+      "name": "Zach Bryan",
+      "image": "https://i.scdn.co/image/ab676161000051744fd54df35bfcfa0fc9fc2da7",
+      "currentRank": 29,
+      "previousRank": 29
+    },
+    {
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "image": "https://i.scdn.co/image/ab676161000051741bbee4a02f85ecc58d385c3e",
+      "currentRank": 30,
+      "previousRank": 21
+    },
+    {
+      "id": "0du5cEVh5yTK9QJze8zA0C",
+      "name": "Bruno Mars",
+      "image": "https://i.scdn.co/image/ab67616100005174c36dd9eb55fb0db4911f25dd",
+      "currentRank": 31,
+      "previousRank": 34
+    },
+    {
+      "id": "1RyvyyTE3xzB2ZywiAwp0i",
+      "name": "Future",
+      "image": "https://i.scdn.co/image/ab6761610000517424e41f491b129093a6fee383",
+      "currentRank": 32,
+      "previousRank": 28
+    },
+    {
+      "id": "0elWFr7TW8piilVRYJUe4P",
+      "name": "Natanael Cano",
+      "image": "https://i.scdn.co/image/ab676161000051740819edd43096a2f0dde7cd44",
+      "currentRank": 33,
+      "previousRank": 32
+    },
+    {
+      "id": "0iEtIxbK0KxaSlF7G42ZOp",
+      "name": "Metro Boomin",
+      "image": "https://i.scdn.co/image/ab67616100005174df9a1555f53a20087b8c5a5c",
+      "currentRank": 34,
+      "previousRank": 31
+    },
+    {
+      "id": "23TFHmajVfBtlRx5MXqgoz",
+      "name": "Sfera Ebbasta",
+      "image": "https://i.scdn.co/image/ab67616100005174001b450ba15d86b0023c2281",
+      "currentRank": 35,
+      "previousRank": -1
+    },
+    {
+      "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+      "name": "David Guetta",
+      "image": "https://i.scdn.co/image/ab67616100005174f150017ca69c8793503c2d4f",
+      "currentRank": 36,
+      "previousRank": 43
+    },
+    {
+      "id": "4oUHIQIBe0LHzYfvXNW4QM",
+      "name": "Morgan Wallen",
+      "image": "https://i.scdn.co/image/ab6761610000517421ed0100a3a4e5aa3c57f6dd",
+      "currentRank": 37,
+      "previousRank": 37
+    },
+    {
+      "id": "66ihevNkSYNzRAl44dx6jJ",
+      "name": "Carin Leon",
+      "image": "https://i.scdn.co/image/ab67616100005174b7cc22fee89df015c6ba2636",
+      "currentRank": 38,
+      "previousRank": 41
+    },
+    {
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name": "Kendrick Lamar",
+      "image": "https://i.scdn.co/image/ab67616100005174437b9e2a82505b3d93ff1022",
+      "currentRank": 39,
+      "previousRank": 36
+    },
+    {
+      "id": "53XhwfbYqKCa1cC15pYq2q",
+      "name": "Imagine Dragons",
+      "image": "https://i.scdn.co/image/ab67616100005174920dc1f617550de8388f368e",
+      "currentRank": 40,
+      "previousRank": 40
+    },
+    {
+      "id": "2R21vXR83lH98kGeO99Y66",
+      "name": "Anuel AA",
+      "image": "https://i.scdn.co/image/ab676161000051747f19d4df57ae760cfbab33f5",
+      "currentRank": 41,
+      "previousRank": 42
+    },
+    {
+      "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+      "name": "BTS",
+      "image": "https://i.scdn.co/image/ab67616100005174d642648235ebf3460d2d1f6a",
+      "currentRank": 42,
+      "previousRank": 46
+    },
+    {
+      "id": "7bXgB6jMjp9ATFy66eO08Z",
+      "name": "Chris Brown",
+      "image": "https://i.scdn.co/image/ab67616100005174a48397e590a1c70e2cda7728",
+      "currentRank": 43,
+      "previousRank": 35
+    },
+    {
+      "id": "45dkTj5sMRSjrmBSBeiHym",
+      "name": "Tate McRae",
+      "image": "https://i.scdn.co/image/ab676161000051747afd1dcf8bc34612f16ee39c",
+      "currentRank": 44,
+      "previousRank": 71
+    },
+    {
+      "id": "7Ln80lUS6He07XvHI8qqHH",
+      "name": "Arctic Monkeys",
+      "image": "https://i.scdn.co/image/ab676161000051747da39dea0a72f581535fb11f",
+      "currentRank": 45,
+      "previousRank": 45
+    },
+    {
+      "id": "4zCH9qm4R2DADamUHMCa6O",
+      "name": "Anirudh Ravichander",
+      "image": "https://i.scdn.co/image/ab67616100005174d319de19e7e02c419b5fec77",
+      "currentRank": 46,
+      "previousRank": 39
+    },
+    {
+      "id": "6XkjpgcEsYab502Vr1bBeW",
+      "name": "Grupo Frontera",
+      "image": "https://i.scdn.co/image/ab676161000051748f1a7e9f510bf0501e209c58",
+      "currentRank": 47,
+      "previousRank": 55
+    },
+    {
+      "id": "6l3HvQ5sa6mXTsMTB19rO5",
+      "name": "J. Cole",
+      "image": "https://i.scdn.co/image/ab67616100005174add503b411a712e277895c8a",
+      "currentRank": 48,
+      "previousRank": 48
+    },
+    {
+      "id": "0EmeFodog0BfCgMzAIvKQp",
+      "name": "Shakira",
+      "image": "https://i.scdn.co/image/ab67616100005174284894d68fe2f80cad555110",
+      "currentRank": 49,
+      "previousRank": 52
+    },
+    {
+      "id": "4MCBfE4596Uoi2O4DtmEMz",
+      "name": "Juice WRLD",
+      "image": "https://i.scdn.co/image/ab676161000051741908e1a8b79abf71d5598944",
+      "currentRank": 50,
+      "previousRank": 47
+    }
+  ]
+}

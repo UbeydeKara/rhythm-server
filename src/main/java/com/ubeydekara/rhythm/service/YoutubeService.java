@@ -3,7 +3,7 @@ package com.ubeydekara.rhythm.service;
 import com.ubeydekara.rhythm.constant.YoutubeConstants;
 import com.ubeydekara.rhythm.model.VideoSource;
 import com.ubeydekara.rhythm.repository.VideoSourceRepository;
-import com.ubeydekara.rhythm.response.YoutubeSearch;
+import com.ubeydekara.rhythm.response.rest.YoutubeSearch;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpMethod;
 import org.springframework.stereotype.Service;

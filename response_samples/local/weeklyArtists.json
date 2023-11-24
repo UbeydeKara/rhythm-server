@@ -1,0 +1,142 @@
+[
+  {
+    "id": "06HL4z0CvFAxyc27GXpf02",
+    "name": "Taylor Swift",
+    "image": "https://i.scdn.co/image/ab67616100005174859e4c14fa59296c8649e0e4",
+    "currentRank": 1,
+    "previousRank": 1
+  },
+  {
+    "id": "3TVXtAsR1Inumwj472S9r4",
+    "name": "Drake",
+    "image": "https://i.scdn.co/image/ab676161000051744293385d324db8558179afd9",
+    "currentRank": 2,
+    "previousRank": 3
+  },
+  {
+    "id": "4q3ewBCX7sLwd24euuV69X",
+    "name": "Bad Bunny",
+    "image": "https://i.scdn.co/image/ab676161000051749ad50e478a469448c6f369df",
+    "currentRank": 3,
+    "previousRank": 2
+  },
+  {
+    "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+    "name": "The Weeknd",
+    "image": "https://i.scdn.co/image/ab67616100005174214f3cf1cbe7139c1e26ffbb",
+    "currentRank": 4,
+    "previousRank": 4
+  },
+  {
+    "id": "12GqGscKJx3aE4t07u7eVZ",
+    "name": "Peso Pluma",
+    "image": "https://i.scdn.co/image/ab67616100005174730e71d60e047f1061a9e697",
+    "currentRank": 5,
+    "previousRank": 5
+  },
+  {
+    "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+    "name": "Travis Scott",
+    "image": "https://i.scdn.co/image/ab6761610000517419c2790744c792d05570bb71",
+    "currentRank": 6,
+    "previousRank": 6
+  },
+  {
+    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+    "name": "Kanye West",
+    "image": "https://i.scdn.co/image/ab67616100005174867008a971fae0f4d913f63a",
+    "currentRank": 7,
+    "previousRank": 8
+  },
+  {
+    "id": "4YRxDV8wJFPHPTeXepOstw",
+    "name": "Arijit Singh",
+    "image": "https://i.scdn.co/image/ab676161000051740261696c5df3be99da6ed3f3",
+    "currentRank": 8,
+    "previousRank": 11
+  },
+  {
+    "id": "2LRoIwlKmHjgvigdNGBHNo",
+    "name": "Feid",
+    "image": "https://i.scdn.co/image/ab676161000051749e7c05016af970bb9bf76cc1",
+    "currentRank": 9,
+    "previousRank": 7
+  },
+  {
+    "id": "7Gi6gjaWy3DxyilpF1a8Is",
+    "name": "Junior H",
+    "image": "https://i.scdn.co/image/ab67616100005174b5ccab5d3dc10a08d89cbd76",
+    "currentRank": 10,
+    "previousRank": 10
+  },
+  {
+    "id": "790FomKkXshlbRYZFtlgla",
+    "name": "KAROL G",
+    "image": "https://i.scdn.co/image/ab67616100005174eb97a2403d7b9a631ce0f59c",
+    "currentRank": 11,
+    "previousRank": 12
+  },
+  {
+    "id": "00FQb4jTyendYWaN8pK0wa",
+    "name": "Lana Del Rey",
+    "image": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261",
+    "currentRank": 12,
+    "previousRank": 13
+  },
+  {
+    "id": "1McMsnEElThX1knmY4oliG",
+    "name": "Olivia Rodrigo",
+    "image": "https://i.scdn.co/image/ab67616100005174e03a98785f3658f0b6461ec4",
+    "currentRank": 13,
+    "previousRank": 19
+  },
+  {
+    "id": "6HaGTQPmzraVmaVxvz6EUc",
+    "name": "Jung Kook",
+    "image": "https://i.scdn.co/image/ab6761610000517440a7268dd742e5f63759b960",
+    "currentRank": 14,
+    "previousRank": 9
+  },
+  {
+    "id": "7tYKF4w9nC0nq9CsPZTHyP",
+    "name": "SZA",
+    "image": "https://i.scdn.co/image/ab676161000051747eb7f6371aad8e67e01f0a03",
+    "currentRank": 15,
+    "previousRank": 15
+  },
+  {
+    "id": "0ys2OFYzWYB5hRDLCsBqxt",
+    "name": "Fuerza Regida",
+    "image": "https://i.scdn.co/image/ab676161000051741b85fbf9507041aab224336d",
+    "currentRank": 16,
+    "previousRank": 14
+  },
+  {
+    "id": "66CXWjxzNUsdJxJ2JdwvnR",
+    "name": "Ariana Grande",
+    "image": "https://i.scdn.co/image/ab67616100005174cdce7620dc940db079bf4952",
+    "currentRank": 17,
+    "previousRank": 18
+  },
+  {
+    "id": "7dGJo4pcD2V6oG8kP0tJRR",
+    "name": "Eminem",
+    "image": "https://i.scdn.co/image/ab67616100005174a00b11c129b27a88fc72f36b",
+    "currentRank": 18,
+    "previousRank": 16
+  },
+  {
+    "id": "4gzpq5DPGxSnKTe4SA8HAU",
+    "name": "Coldplay",
+    "image": "https://i.scdn.co/image/ab67616100005174989ed05e1f0570cc4726c2d3",
+    "currentRank": 19,
+    "previousRank": 26
+  },
+  {
+    "id": "1URnnhqYAYcrqrcwql10ft",
+    "name": "21 Savage",
+    "image": "https://i.scdn.co/image/ab6761610000517435ca7d2181258b51c0f2cf9e",
+    "currentRank": 20,
+    "previousRank": 20
+  }
+]

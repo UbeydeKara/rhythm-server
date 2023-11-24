@@ -1,4 +1,4 @@
-package com.ubeydekara.rhythm.response;
+package com.ubeydekara.rhythm.response.rest;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
