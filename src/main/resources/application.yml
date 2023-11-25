@@ -8,3 +8,10 @@ spring:
 
 rest:
   timeout: 30000
+
+client:
+  youtube:
+    apikey: ${YOUTUBE_APIKEY}
+  spotify:
+    clientId: ${SPOTIFY_CLIENT_ID}
+    clientSecret: ${SPOTIFY_CLIENT_SECRET}

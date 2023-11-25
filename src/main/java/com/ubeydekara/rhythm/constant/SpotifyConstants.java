@@ -1,10 +1,33 @@
 package com.ubeydekara.rhythm.constant;
 
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
 public class SpotifyConstants {
 
-    // auth
-    public static String clientId = "<sp_client_id>";
-    public static String clientSecret = "<sp_client_secret>";
+    // client
+    public static String clientId;
+
+    public static String clientSecret;
+
+    @Value("${client.spotify.clientId}")
+    public String clientIdHolder;
+
+    @Value("${client.spotify.clientSecret}")
+    public String clientSecretHolder;
+
+    @Value("${client.spotify.clientId}")
+    public void setClientIdHolder(String clientIdHolder) {
+        SpotifyConstants.clientId = clientIdHolder;
+    }
+
+    @Value("${client.spotify.clientSecret}")
+    public void setClientSecretHolder(String clientSecretHolder) {
+        SpotifyConstants.clientSecret = clientSecretHolder;
+    }
+
+    // token
     public static String tokenUrl = "https://accounts.spotify.com/api/token";
     public static String grantType = "client_credentials";
 
