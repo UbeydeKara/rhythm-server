@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: music-service
+
+  data:
+    mongodb:
+      uri: mongodb://root:12345@mongodb:27017/rhythm.video_sources?authSource=admin
+
+rest:
+  timeout: 30000
