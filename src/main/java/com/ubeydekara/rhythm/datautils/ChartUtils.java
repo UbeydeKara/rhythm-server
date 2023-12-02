@@ -73,7 +73,7 @@ public class ChartUtils {
     }
 
     public List<WeeklyReleases> importWeeklyReleases() {
-        List<Track> tracks = spotifyService.getPlaylistTracks(SpotifyConstants.globalNewReleasesPlaylistId);
+        List<Track> tracks = spotifyService.getPlaylistTracks(SpotifyConstants.newMusicFridayPlaylistId);
         List<WeeklyReleases> weeklyReleases = List.of(modelMapper.map(tracks, WeeklyReleases[].class));
 
         weeklyReleasesRepository.deleteAll();

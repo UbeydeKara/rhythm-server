@@ -36,5 +36,5 @@ public class SpotifyConstants {
     public static String playlistTracksEndpoint = "https://api.spotify.com/v1/playlists/{playlist_id}/tracks?fields=items.track.album%28name%2Cimages%2Cartists%28name%29%29";
 
     // ids
-    public static String globalNewReleasesPlaylistId = "4osleQn1nbT9Nr4MW7IIs9";
+    public static String newMusicFridayPlaylistId = "37i9dQZF1DX4JAvHpjipBk";
 }
