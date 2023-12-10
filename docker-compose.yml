@@ -13,7 +13,7 @@ services:
       - mongo
 
   rhythm:
-    image: ubeydekara/rhythm:0.0.3-SNAPSHOT
+    image: ubeydekara/rhythm:0.1.0
     ports:
       - "8080:8080"
     environment:

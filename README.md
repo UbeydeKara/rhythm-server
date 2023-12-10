@@ -1,6 +1,6 @@
 # Rhythm - Music Streaming APIs
 
-### Spotify Chart Endpoints (prefix = "/api/v1/chart")
+### Chart Endpoints (prefix = "/api/v1/chart")
 
 | Path                   | Method | Description                                                                                             |
 |------------------------|--------|---------------------------------------------------------------------------------------------------------|
@@ -10,6 +10,13 @@
 | /weeklyReleases        | GET    | Retrieves weekly new releases                                                                           |
 | /import                | POST   | It pulls weekly updated information from Spotify API and saves it temporarily in the database.          |
 | /import/weeklyReleases | POST   | It pulls the week's newly added tracks from the Spotify API and temporarily saves them in the database. |
+
+### Spotify Endpoints (prefix = "/api/v1/spotify")
+
+| Path           | Method | Description               |
+|----------------|--------|---------------------------|
+| /playlist/{id} | GET    | Retrieves playlist tracks |
+| /album/{id}    | GET    | Retrieves album detail    |
 
 ### Youtube Endpoints (prefix = "/api/v1/youtube")
 
