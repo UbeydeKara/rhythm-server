@@ -1,8 +1,10 @@
 package com.ubeydekara.rhythm.service;
 
 import com.ubeydekara.rhythm.constant.SpotifyConstants;
+import com.ubeydekara.rhythm.response.AlbumDetail;
 import com.ubeydekara.rhythm.response.Track;
 import com.ubeydekara.rhythm.response.rest.PlaylistItems;
+import com.ubeydekara.rhythm.response.rest.AlbumDetailRest;
 import com.ubeydekara.rhythm.util.SpotifyAuth;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpEntity;
@@ -12,6 +14,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 @Service
@@ -19,17 +22,30 @@ import java.util.List;
 public class SpotifyService {
     private final RestTemplate restTemplate;
 
-    public List<Track> getPlaylistTracks(String albumId) {
-        String postUrl = SpotifyConstants.playlistTracksEndpoint.replace("{playlist_id}", albumId);
+    public List<Track> getPlaylistTracks(String playlistId) {
+        String requestUrl = SpotifyConstants.playlistTracksEndpoint.replace("{playlist_id}", playlistId);
 
         PlaylistItems playlistItems = restTemplate
-                .exchange(postUrl, HttpMethod.GET, getHttpEntity(), PlaylistItems.class)
+                .exchange(requestUrl, HttpMethod.GET, getHttpEntity(), PlaylistItems.class)
                 .getBody();
 
         if (playlistItems == null)
             throw new RuntimeException();
 
         return preparePlaylist(playlistItems);
+    }
+
+    public AlbumDetail getAlbumDetail(String albumId) {
+        String requestUrl = SpotifyConstants.albumDetailEndpoint.replace("{album_id}", albumId);
+
+        AlbumDetailRest albumDetailRest = restTemplate
+                .exchange(requestUrl, HttpMethod.GET, getHttpEntity(), AlbumDetailRest.class)
+                .getBody();
+
+        if (albumDetailRest == null)
+            throw new RuntimeException();
+
+        return this.prepareAlbumDetail(albumDetailRest);
     }
 
     private List<Track> preparePlaylist(PlaylistItems playlistItems) {
@@ -63,6 +79,19 @@ public class SpotifyService {
         }
 
         return trackListResponse;
+    }
+
+    private AlbumDetail prepareAlbumDetail(AlbumDetailRest albumDetailRest) {
+        return AlbumDetail.builder()
+                .name(albumDetailRest.getName())
+                .image(albumDetailRest.getImages().get(0).getUrl())
+                .artists(albumDetailRest.getArtists())
+                .tracks(albumDetailRest.getTracks().getItems()
+                        .stream().sorted(Comparator.comparing(AlbumDetailRest.Track.Item::getTrackNumber))
+                        .toList())
+                .genres(albumDetailRest.getGenres())
+                .totalTracks(albumDetailRest.getTotalTracks())
+                .build();
     }
 
     private HttpEntity<Object> getHttpEntity() {
