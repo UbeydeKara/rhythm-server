@@ -29,6 +29,7 @@ public class AlbumDetailRest {
         public static class Item {
             private String id;
             private String name;
+            private List<Artist> artists;
 
             @JsonProperty("duration_ms")
             private Integer durationMs;
